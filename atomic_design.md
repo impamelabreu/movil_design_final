@@ -1,5 +1,5 @@
-## Atomic Design
-
+## ATOMIC DESIGN
+---
 Es un enfoque metodológico para diseñar interfaces de usuario en forma de componentes modulares y reutilizables. Fue desarrollado por Brad Frost en 2013 como una manera de abordar la creación y organización de diseños en sistemas más grandes y complejos.
 
 El concepto se basa en la analogía con la estructura de los átomos en la química. Al igual que los átomos se combinan para formar moléculas y, a su vez, moléculas forman compuestos más grandes, el Atomic Design propone descomponer las interfaces en componentes más pequeños y simples, llamados "átomos", que luego se combinan para formar elementos más complejos.
