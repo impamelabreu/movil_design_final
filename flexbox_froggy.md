@@ -118,6 +118,7 @@ Se utiliza la propiedad la propiedad order para cambiar el orden de posición de
 #pond {
   display: flex;
 }
+
 .yellow {
 order: 1
 }
@@ -128,6 +129,7 @@ Se aplica la propiedad order con el valor -1 para mover la rana roja que está e
 #pond {
   display: flex;
 }
+
 .red {
 order: -1
 }
